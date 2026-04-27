@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Syed Tayyab Ali
 
-<!--
-**acuvex/acuvex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Web Developer | 📊 Data Science Student | 💼 Founder of Acuvex Studio
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+I am a passionate web developer from Mirpurkhas, Sindh, Pakistan.
+I build modern, high-performance and client-focused websites that help businesses grow online.
+
+Currently also learning Data Science to add intelligent and data-driven features into my projects.
+
+---
+
+## 🛠️ Skills
+- HTML, CSS, JavaScript
+- React / Vite
+- Responsive Web Design
+- UI/UX Basics
+- Git & GitHub
+
+---
+
+## 🌍 Portfolio
+👉 https://acuvex-studio-portfolio.vercel.app/
+
+---
+
+## 📬 Contact Me
+- 📧 Email: acuvex.academy@gmail.com  
+- 📱 WhatsApp: https://wa.me/923292621688  
+- 🔗 LinkedIn: https://www.linkedin.com/in/acuvex-academy-979468406/  
+- 📸 Instagram: https://www.instagram.com/acuvex_academy_official  
+- 💻 GitHub: https://github.com/acuvex  
+
+---
+
+## 🎯 Mission
+To build high-quality digital products that bring real business results and client trust.
+
+---
+
+⭐ Always learning, always building.
